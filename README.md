@@ -10,11 +10,11 @@ By default, `master` and `develop` branches will be exempt.
 
 To call this library from the command line, you have to make the ruby file available in your $PATH.
 
-You'll want to clone this repo somewhere, then symlink the `git_smart_clone.rb` file somewhere on your $PATH. EG:
+You'll want to clone this repo somewhere, then symlink the `git_smart_prune.rb` file somewhere on your $PATH. EG:
 
 ```
-chmod +x git_smart_clone.rb
-ln -s `pwd`/git_smart_clone.rb ~/bin/git_smart_clone
+chmod +x git_smart_prune.rb
+ln -s `pwd`/git_smart_prune.rb ~/bin/git_smart_prune
 ```
 
 You can also add an alias to make using this more convenient. EG:
