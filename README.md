@@ -1,4 +1,4 @@
-# Git Smart Checkout
+# Git Smart Prune
 
 This is a dumb little library I made because I don't like using autocomplete to delete a branch.
 
